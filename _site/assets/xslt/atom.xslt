@@ -420,8 +420,6 @@
 			</div><!-- /.small-12.columns -->
 		</div><!-- /.row -->
 	</div><!-- /#masthead -->
-	
-	
 
 
 
