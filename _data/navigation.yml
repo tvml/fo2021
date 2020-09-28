@@ -1,11 +1,11 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: start
   url: "/"
   side: left
   
-- title: Informazioni
+- title: informazioni
   url: "/info/"
   side: left
   
@@ -13,41 +13,29 @@
   url: "/programma/"
   side: left
   
-- title: lucidi
-  url: "/lucidi/"
+- title: comunicazioni
+  url: "/comunicazioni/"
   side: left
   
-- title: note
-  url: "/note/"
+- title: lucidi
+  url: "/lucidi/"
   side: left
   
 - title: codici
   url: "/codici/"
   side: left
-
-- title: dataset
-  url: "/dataset/"
-  side: left
   
-- title: Comunicazioni
-  url: "/comunicazioni/"
-  side: left
-  
-- title: Lezioni
+- title: lezioni
   url: "/lezioni/"
   side: left
   
-- title: Progetti
-  url: "/progetti/"
-  side: left
-  
-- title: Store
+- title: store
   url: "/store/"
   side: left
   
-- title: Bibliografia
-  url: "/biblio/"
-  side: left
+#- title: Bibliografia
+#  url: "/biblio/"
+#  side: left
 
 #- title: "Dropdown Menu"
 #  url: "#"

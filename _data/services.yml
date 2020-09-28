@@ -1,7 +1,7 @@
 - menu_name: "Contatti"
 
 - name: "Mail"
-  url: "giorgio.gambosi@uniroma2.it"
+  url: "mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20FO"
   title: "Mail"
   
 - name: "Teams"

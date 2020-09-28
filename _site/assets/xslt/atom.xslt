@@ -192,30 +192,6 @@
           
           
         
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
-        
         
       </ul>
 
@@ -229,7 +205,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/">Start</a></li>
+              <li><a href="http://localhost:4000/fo2021/">start</a></li>
               <li class="divider"></li>
 
             
@@ -244,7 +220,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/info/">Informazioni</a></li>
+              <li><a href="http://localhost:4000/fo2021/info/">informazioni</a></li>
               <li class="divider"></li>
 
             
@@ -274,7 +250,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/lucidi/">lucidi</a></li>
+              <li><a href="http://localhost:4000/fo2021/comunicazioni/">comunicazioni</a></li>
               <li class="divider"></li>
 
             
@@ -289,7 +265,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/note/">note</a></li>
+              <li><a href="http://localhost:4000/fo2021/lucidi/">lucidi</a></li>
               <li class="divider"></li>
 
             
@@ -319,7 +295,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/dataset/">dataset</a></li>
+              <li><a href="http://localhost:4000/fo2021/lezioni/">lezioni</a></li>
               <li class="divider"></li>
 
             
@@ -334,67 +310,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/comunicazioni/">Comunicazioni</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/fo2021/lezioni/">Lezioni</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/fo2021/progetti/">Progetti</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/fo2021/store/">Store</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/fo2021/biblio/">Bibliografia</a></li>
+              <li><a href="http://localhost:4000/fo2021/store/">store</a></li>
               <li class="divider"></li>
 
             
@@ -508,7 +424,7 @@
                         
                             
                             <li >
-                                <a href="giorgio.gambosi@uniroma2.it"  title="Mail">
+                                <a href="mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20FO"  title="Mail">
                                 <font color="#ffc800">Mail</font></a>
                             </li>
                         
