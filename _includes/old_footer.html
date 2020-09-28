@@ -12,36 +12,40 @@
             </p>
           </div><!-- /.large-6.columns -->
 
-          <div id="contacts" color="#ffc800">
-                <div class="small-6 medium-3 large-3 large-offset-1 columns">
-                    {% for service_item in site.data.services %}
-                        {% if forloop.first == true %}
-                            <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
-                        {% endif %}
-                    {% endfor %}
-                    <ul class="no-bullet shadow-black">
-                        {% for service_item in site.data.services %}
-                            {% if service_item.url contains 'http' %}
-                                {% assign domain = '' %}
-                            {% elsif service_item.url contains 'mailto'%}
-                                {% assign domain = '' %}
-                            {% else %}
-                                {% assign domain = site.baseurl %}
-                            {% endif %}
-                            <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
-                                <a href="{{ service_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{service_item.title }}">
-                                <font color="#ffc800">{{ service_item.name }}</font></a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-             </div>
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            {% for service_item in site.data.services %}
+              {% if forloop.first == true %}
+                <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
+              {% endif %}
+            {% endfor %}
+              
+              <ul class="no-bullet shadow-black">
+              {% for service_item in site.data.services %}
+                {% if service_item.url contains 'http' %}{% assign domain = '' %}{% elsif service_item.url contains 'mailto'%}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
+                  <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
+                    <font color="yellow">{{ service_item.url }}</font>
+                  </li>
+              {% endfor %}
+              </ul>
+          </div><!-- /.large-4.columns -->
 
 
           <div class="small-6 medium-3 large-3 columns">
-                <h5 class="shadow-black">Thanks to</h5>
+            {% for network_item in site.data.network %}
+              {% if forloop.first == true %}
+                <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
+              {% endif %}
+            {% endfor %}
               
-            <div id="thanks-to">
+            <!--ul class="no-bullet shadow-black">
+            {% for network_item in site.data.network %}
+              {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
+                <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
+                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+                </li>
+            {% endfor %}
+            </ul-->
             <div class="row shadow-black collapse">
             	<div class="small-5 columns">
             		<span  class="network-entypo">
@@ -70,13 +74,7 @@
             			</font>
             		</span>
             	</div>
-            	<div class="small-7 columns">
-            	        <span  class="network-entypo">
-            	        <font  size='2'><a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation
-            	                                </a>
-            	         </font>
-            	         </span>
-            	 </div>
+            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a></font></span></div>
             </div>
             <div class="row shadow-black collapse">
             	<div class="small-5 columns">
@@ -87,9 +85,9 @@
             			</font>
             		</span>
             	</div>
+            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="https://xkcd.com/" target="_blank"  title="Xkcd comics">Xkcd comics</a></font></span></div>
             </div>
           </div><!-- /.large-3.columns -->
-          </div>
           
         </div><!-- /.row -->
 
