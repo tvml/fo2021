@@ -29,7 +29,8 @@
                                 {% assign domain = site.baseurl %}
                             {% endif %}
                             <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
-                                <a href="{{ service_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{service_item.title }}">{{ service_item.name }}</a>
+                                <a href="{{ service_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{service_item.title }}">
+                                <font color="#ffc800">{{ service_item.name }}</font></a>
 	                    <!--div class="service-item">{{ service_item.url }}</div-->
                                 <!--font color="yellow">{{ service_item.url }}</font-->
                             </li>
