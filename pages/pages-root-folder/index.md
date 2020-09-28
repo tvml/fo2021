@@ -7,9 +7,9 @@
 layout: frontpage
     
 header:
-    image: "img4.png"
-    background-color: "#3a5373"
-    caption: This is a caption for the header image with link
+    image: "Turing_Machine.jpg"
+    background-color: "#555555"
+    caption: Macchina di Turing
     caption_url: https://unsplash.com/
 
   

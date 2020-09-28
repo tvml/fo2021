@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/ml1819/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/ml1819/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/fo2021/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/fo2021/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/ml1819/</id>
-	<title>Machine learning</title>
-	<updated>2020-01-15T15:05:56+01:00</updated>
+	<id>http://localhost:4000/fo2021/</id>
+	<title>Fondamenti di Informatica: modulo 1</title>
+	<updated>2020-09-28T09:41:45+02:00</updated>
 
-	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
+	<subtitle>Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata.</subtitle>
 
 	
 		
@@ -19,17 +19,17 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/ml1819/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/ml1819/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/fo2021/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/fo2021/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/ml1819/comunicazioni/appelli-sessione-invernale/</id>
-			<title>Appelli sessione invernale</title>
-			<link href="http://localhost:4000/ml1819/comunicazioni/appelli-sessione-invernale/" rel="alternate" type="text/html" title="Appelli sessione invernale" />
-			<updated>2020-01-15T00:00:00+01:00</updated>
+			<id>http://localhost:4000/fo2021/comunicazioni/python/</id>
+			<title>Ambiente di programmazione Python</title>
+			<link href="http://localhost:4000/fo2021/comunicazioni/python/" rel="alternate" type="text/html" title="Ambiente di programmazione Python" />
+			<updated>2020-09-27T00:00:00+02:00</updated>
 
 			
 				
@@ -44,16 +44,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/appelli-sessione-invernale/">&lt;p&gt;Gli appelli di esame per la sessione invernale sono fissati alle seguenti date:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Martedì 4 febbraio 2020, alle ore 14, studio del docente&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Martedì 25 febbraio 2020, alle ore 14, studio del docente&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+			<content type="html" xml:base="http://localhost:4000/fo2021/comunicazioni/python/">&lt;p&gt;Per la programmazione in Python, si suggerisce di utilizzare la distribuzione &lt;a href=&quot;[https://conda.io/docs/user-guide/overview.html]&quot;&gt;Anaconda&lt;/a&gt;. Le istruzioni per l’installazione si trovano &lt;a href=&quot;https://docs.anaconda.com/anaconda/install/&quot;&gt;qui&lt;/a&gt;. Una volta effettuata l’installazione, si consiglia di utilizzare &lt;a href=&quot;https://docs.anaconda.com/anaconda/navigator/&quot;&gt;Anaconda Navigator&lt;/a&gt; per l’eventuale gestione dei packages e per lanciare l’editor e ambiente di programmazione Spyder o, in alternativa, Jupyter Notebook o JupyterLab.&lt;/p&gt;
 </content>
 
 			
@@ -61,295 +52,7 @@
 			
 			
 
-			<published>2020-01-15T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/comunicazioni/appelli-sessione-autunnale/</id>
-			<title>Appelli sessione autunnale</title>
-			<link href="http://localhost:4000/ml1819/comunicazioni/appelli-sessione-autunnale/" rel="alternate" type="text/html" title="Appelli sessione autunnale" />
-			<updated>2019-08-03T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/appelli-sessione-autunnale/">&lt;p&gt;Gli appelli di esame per la sessione autunnale sono fissati alle seguenti date:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Venerdì 13 settembre 2019, alle ore 10, studio del docente&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lunedì 30 settembre 2019, alle ore 15, studio del docente&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</content>
-
-			
-				<category term="comunicazioni" />
-			
-			
-
-			<published>2019-08-03T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 24</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 24" />
-			<updated>2019-06-04T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-06-04T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 23</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 23" />
-			<updated>2019-05-30T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-30T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 22</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 22" />
-			<updated>2019-05-28T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-28T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/comunicazioni/appelli-sessione-estiva/</id>
-			<title>Appelli sessione estiva</title>
-			<link href="http://localhost:4000/ml1819/comunicazioni/appelli-sessione-estiva/" rel="alternate" type="text/html" title="Appelli sessione estiva" />
-			<updated>2019-05-28T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/appelli-sessione-estiva/">&lt;p&gt;Gli appelli di esame per la sessione estiva sono fissati alle seguenti date:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Martedì 2 luglio 2019, alle ore 10, studio del docente&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Venerdì 19 luglio 2019, alle ore 10, studio del docente&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</content>
-
-			
-				<category term="comunicazioni" />
-			
-			
-
-			<published>2019-05-28T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 21</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 21" />
-			<updated>2019-05-23T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-23T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 20</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 20" />
-			<updated>2019-05-21T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-21T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezioni 18-19</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezioni 18-19" />
-			<updated>2019-05-16T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-16T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 17</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 17" />
-			<updated>2019-05-14T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-14T00:00:00+02:00</published>
+			<published>2020-09-27T00:00:00+02:00</published>
 		</entry>
 	
 </feed>

@@ -9,8 +9,9 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>RSS Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/ml1819/assets/css/styles_feeling_responsive.css" />
-	<script src="http://localhost:4000/ml1819/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/fo2021/assets/css/styles_feeling_responsive.css" />
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/fo2021/assets/css/style.css" />
+	<script src="http://localhost:4000/fo2021/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -27,7 +28,7 @@
 
   
 	
-	<meta name="description" content="Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata." />
+	<meta name="description" content="Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata." />
 
 	
 
@@ -110,9 +111,9 @@
 	<meta property="og:locale" content="en_EN" />
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
-	<meta property="og:description" content="Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata." />
-	<meta property="og:url" content="http://localhost:4000/ml1819//assets/xslt/rss.xslt" />
-	<meta property="og:site_name" content="Machine learning" />
+	<meta property="og:description" content="Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata." />
+	<meta property="og:url" content="http://localhost:4000/fo2021//assets/xslt/rss.xslt" />
+	<meta property="og:site_name" content="Fondamenti di Informatica: modulo 1" />
 	
 
 	
@@ -120,7 +121,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/ml1819/humans.txt" />
+	<link type="text/plain" rel="author" href="http://localhost:4000/fo2021/humans.txt" />
 
 	
 
@@ -135,7 +136,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/ml1819" class="icon-tree"> Machine learning</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/fo2021" class="icon-tree"> Fondamenti di Informatica: modulo 1</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -143,24 +144,6 @@
     <section class="top-bar-section">
 
       <ul class="right">
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
         
 
               
@@ -223,7 +206,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml1819/">Start</a></li>
+              <li><a href="http://localhost:4000/fo2021/">start</a></li>
               <li class="divider"></li>
 
             
@@ -238,7 +221,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml1819/info/">Informazioni</a></li>
+              <li><a href="http://localhost:4000/fo2021/info/">informazioni</a></li>
               <li class="divider"></li>
 
             
@@ -253,7 +236,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml1819/programma/">programma</a></li>
+              <li><a href="http://localhost:4000/fo2021/programma/">programma</a></li>
               <li class="divider"></li>
 
             
@@ -268,7 +251,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml1819/lucidi/">lucidi</a></li>
+              <li><a href="http://localhost:4000/fo2021/comunicazioni/">comunicazioni</a></li>
               <li class="divider"></li>
 
             
@@ -283,7 +266,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml1819/codici/">codici</a></li>
+              <li><a href="http://localhost:4000/fo2021/lucidi/">lucidi</a></li>
               <li class="divider"></li>
 
             
@@ -298,7 +281,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml1819/dataset/">dataset</a></li>
+              <li><a href="http://localhost:4000/fo2021/codici/">codici</a></li>
               <li class="divider"></li>
 
             
@@ -313,7 +296,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml1819/comunicazioni/">Comunicazioni</a></li>
+              <li><a href="http://localhost:4000/fo2021/lezioni/">lezioni</a></li>
               <li class="divider"></li>
 
             
@@ -328,52 +311,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml1819/lezioni/">Lezioni</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/ml1819/progetti/">Progetti</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/ml1819/store/">Store</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/ml1819/biblio/">Bibliografia</a></li>
+              <li><a href="http://localhost:4000/fo2021/store/">store</a></li>
               <li class="divider"></li>
 
             
@@ -391,16 +329,14 @@
 	<div id="masthead-no-image-header">
 		<div class="row">
 			<div class="small-12 columns">
-				<a id="logo" href="http://localhost:4000" title="Machine learning – Università di Roma Tor Vergata">
+				<a id="logo" href="http://localhost:4000" title="Fondamenti di Informatica: modulo 1 – Università di Roma Tor Vergata">
 				<p style="text-align:center;">
-					<img src="http://localhost:4000/ml1819/assets/img/" alt="Machine learning – Università di Roma Tor Vergata">
+					<img src="http://localhost:4000/fo2021/assets/img/" alt="Fondamenti di Informatica: modulo 1 – Università di Roma Tor Vergata">
 				</p>
 				</a>
 			</div><!-- /.small-12.columns -->
 		</div><!-- /.row -->
 	</div><!-- /#masthead -->
-	
-	
 
 
 
@@ -464,93 +400,53 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.
+              Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata.
             </p>
           </div><!-- /.large-6.columns -->
 
-
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-            
-              
-                <h5 class="shadow-black">Contatti</h5>
-              
-            
-              
-            
-              
-            
-              
-              <ul class="no-bullet shadow-black">
-              
-                
-                  <li >
-                    <font color="yellow"></font>
-                  </li>
-              
-                
-                  <li >
-                    <font color="yellow">giorgio.gambosi@uniroma2.it</font>
-                  </li>
-              
-                
-                  <li >
-                    <font color="yellow">twitter.com/tvmlclass</font>
-                  </li>
-              
-              </ul>
-          </div><!-- /.large-4.columns -->
+          <div id="contacts">
+                <div class="small-6 medium-3 large-3 large-offset-1 columns">
+                    
+                        
+                            <h5 class="shadow-black">Contatti</h5>
+                        
+                    
+                        
+                    
+                        
+                    
+                    <ul class="no-bullet shadow-black">
+                        
+                            
+                            <li >
+                                <a href=""  title=""></a>
+	                    <!--div class="service-item"></div-->
+                                <!--font color="yellow"></font-->
+                            </li>
+                        
+                            
+                            <li >
+                                <a href="giorgio.gambosi@uniroma2.it"  title="Mail">Mail</a>
+	                    <!--div class="service-item">giorgio.gambosi@uniroma2.it</div-->
+                                <!--font color="yellow">giorgio.gambosi@uniroma2.it</font-->
+                            </li>
+                        
+                            
+                            <li >
+                                <a href="https://teams.microsoft.com/l/channel/19%3ac48d282177fc4648b727e285d0faefbe%40thread.tacv2/1%2520modulo?groupId=83c1dc93-2104-416d-b327-88ce039ef14c&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"  title="Teams">Teams</a>
+	                    <!--div class="service-item">https://teams.microsoft.com/l/channel/19%3ac48d282177fc4648b727e285d0faefbe%40thread.tacv2/1%2520modulo?groupId=83c1dc93-2104-416d-b327-88ce039ef14c&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</div-->
+                                <!--font color="yellow">https://teams.microsoft.com/l/channel/19%3ac48d282177fc4648b727e285d0faefbe%40thread.tacv2/1%2520modulo?groupId=83c1dc93-2104-416d-b327-88ce039ef14c&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e</font-->
+                            </li>
+                        
+                    </ul>
+                </div>
+             </div>
 
 
           <div class="small-6 medium-3 large-3 columns">
-            
-              
                 <h5 class="shadow-black">Thanks to</h5>
               
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            <!--ul class="no-bullet shadow-black">
-            
-              
-                <li >
-                  <a href="/ml1819"  title=""></a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="https://pages.github.com/" target="_blank"  title="Github pages">Github pages</a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="https://jekyllrb.com/" target="_blank"  title="Jekyll">Jekyll</a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a>
-                </li>
-            
-              
-                <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Entypo icons">Entypo icons</a>
-                </li>
-            
-              
-                <li class="network-entypo" >
-                  <a href="https://xkcd.com/" target="_blank"  title="Xkcd comics">Xkcd comics</a>
-                </li>
-            
-            </ul-->
+            <div id="thanks-to">
             <div class="row shadow-black collapse">
             	<div class="small-5 columns">
             		<span  class="network-entypo">
@@ -579,7 +475,13 @@
             			</font>
             		</span>
             	</div>
-            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a></font></span></div>
+            	<div class="small-7 columns">
+            	        <span  class="network-entypo">
+            	        <font  size='2'><a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation
+            	                                </a>
+            	         </font>
+            	         </span>
+            	 </div>
             </div>
             <div class="row shadow-black collapse">
             	<div class="small-5 columns">
@@ -590,9 +492,9 @@
             			</font>
             		</span>
             	</div>
-            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="https://xkcd.com/" target="_blank"  title="Xkcd comics">Xkcd comics</a></font></span></div>
             </div>
           </div><!-- /.large-3.columns -->
+          </div>
           
         </div><!-- /.row -->
 
@@ -625,7 +527,7 @@
 		
 
 
-<script src="http://localhost:4000/ml1819/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/fo2021/assets/js/javascript.min.js"></script>
 
 
 

@@ -6,33 +6,35 @@ teaser: ""
 permalink: /programma/
 header: no
 ---
-## Programma finale
+## Programma tentativo
 
-* Richiami di statistica bayesiana e apprendimento bayesiano <!--`10 ore`-->
-* Modelli grafici e reti bayesiane <!--`10 ore`-->
-* Supervised learning <!--`30 ore`-->
-	* Regressione (lineare e non) e regolarizzazione
-	* Feature selection, cenni
-	* Classificazione lineare: LDA di Fisher, perceptron
-	* Naive bayes
-	* Modelli generativi per la classificazione
-	* Modelli discriminativi per la classificazione, regressione logistica
-	* Support vector machines, kernel
-	* Multilayer perceptron
-	* Modelli non parametrici: knn e Parzen windows
-	* Processi gaussiani
-	* Alberi di decisione
-	* Ensemble models: bagging, boosting, random forests, Adaboost, Gradient boosting
-* Unsupervised learning <!--`20 ore`-->
-	* Clustering: k-means, mixture models<!--, processi di Dirichlet (cenni), spectral clustering -->
-	<!-- * Algoritmo di expectation maximization -->
-	* Dimensionality reduction: Principal component analysis, Probabilistic principal component analysis, Factor analysis<!--, Manifold-->
-	<!-- * Modelli temporali: Hidden Markov models -->
-* Testo, pair matrices e recommenders <!--`10 ore`-->
-	* Latent semantic analysis<!-- , Non negative matrix factorization -->
-	<!-- * Modelli di testo (coppie): Probabilistic latent semantic analysis, Latent Dirichlet allocation, topic models -->
-<!-- * Metodi montecarlo per l'inferenza approssimata (cenni) -->
-* Deep learning <!--`10 ore`-->
-	* Convolutional networks
-	* Recurrent e LSTM networks
+* Introduzione al corso: algoritmi, problemi, modelli di calcolo
+* Caratteristiche elementari dei linguaggi
+* Grammatiche di Chomsky e loro gerarchia
+* Generazione ed accettazione di linguaggi
+* Riconoscimento di linguaggi: automi, configurazioni, computazioni
+* Automi a stati finiti deterministici e non deterministici; equivalenza tra essi
+* Grammatiche di tipo 3 e loro equivalenza con gli ASF
+* Espressioni regolari e loro equivalenza con ASF e grammatiche regolari
+* Pumping lemma per i linguaggi regolari
+* Proprietà di chiusura dei linguaggi regolari
+* Predicati decidibili sui linguaggi regolari
+* Automi a stati finiti minimi e minimizzazione di ASF
+ 
+* Linguaggi context free
+* Grammatiche di tipo 2: forme ridotte e forme normali (Chomsky, Greibach)
+* Proprietà di chiusura dei linguaggi CF
+* Decidibilità di predicati su linguaggi CF
+* Pumping lemma per i linguaggi context free
+* Automi a pila e linguaggi context free
+* Automi a pila deterministici
+* Ambiguità e sua indecidibilità
+* L'algoritmo CYK
 
+* Struttura di un compilatore: analisi lessicale e sintattica, generazione del codice
+* Analizzatori lessicali (scanner)
+* Analizzatori sintattici (parser)
+* Parser a discesa ricorsiva
+* Parser top-down e linguaggi LL(k)
+* Parser bottom-up e linguaggi LR(k)
+* Precedenza di operatori
