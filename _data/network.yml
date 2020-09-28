@@ -25,10 +25,10 @@
   class: "network-entypo"
   title: "Entypo icons"
   
-#- name: "Xkcd comics"
-#  url: "https://xkcd.com/"
-#  class: "network-entypo"
-#  title: "Xkcd comics"
+- name: "Xkcd comics"
+  url: "https://xkcd.com/"
+  class: "network-entypo"
+  title: "Xkcd comics"
 
 #- name: "Images by Unsplash"
 #  url: "http://unsplash.com/"

@@ -10,7 +10,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>RSS Feed (Styled)</title>
 	<link rel="stylesheet" type="text/css" href="http://localhost:4000/fo2021/assets/css/styles_feeling_responsive.css" />
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/fo2021/assets/css/style.css" />
 	<script src="http://localhost:4000/fo2021/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
@@ -193,6 +192,30 @@
           
           
         
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
         
       </ul>
 
@@ -206,7 +229,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/">start</a></li>
+              <li><a href="http://localhost:4000/fo2021/">Start</a></li>
               <li class="divider"></li>
 
             
@@ -221,7 +244,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/info/">informazioni</a></li>
+              <li><a href="http://localhost:4000/fo2021/info/">Informazioni</a></li>
               <li class="divider"></li>
 
             
@@ -251,7 +274,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/comunicazioni/">comunicazioni</a></li>
+              <li><a href="http://localhost:4000/fo2021/lucidi/">lucidi</a></li>
               <li class="divider"></li>
 
             
@@ -266,7 +289,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/lucidi/">lucidi</a></li>
+              <li><a href="http://localhost:4000/fo2021/note/">note</a></li>
               <li class="divider"></li>
 
             
@@ -296,7 +319,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/lezioni/">lezioni</a></li>
+              <li><a href="http://localhost:4000/fo2021/dataset/">dataset</a></li>
               <li class="divider"></li>
 
             
@@ -311,7 +334,67 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2021/store/">store</a></li>
+              <li><a href="http://localhost:4000/fo2021/comunicazioni/">Comunicazioni</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/fo2021/lezioni/">Lezioni</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/fo2021/progetti/">Progetti</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/fo2021/store/">Store</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/fo2021/biblio/">Bibliografia</a></li>
               <li class="divider"></li>
 
             
@@ -337,6 +420,8 @@
 			</div><!-- /.small-12.columns -->
 		</div><!-- /.row -->
 	</div><!-- /#masthead -->
+	
+	
 
 
 
@@ -404,46 +489,89 @@
             </p>
           </div><!-- /.large-6.columns -->
 
-          <div id="contacts" color="#ffc800">
-                <div class="small-6 medium-3 large-3 large-offset-1 columns">
-                    
-                        
-                            <h5 class="shadow-black">Contatti</h5>
-                        
-                    
-                        
-                    
-                        
-                    
-                    <ul class="no-bullet shadow-black">
-                        
-                            
-                            <li >
-                                <a href=""  title="">
-                                <font color="#ffc800"></font></a>
-                            </li>
-                        
-                            
-                            <li >
-                                <a href="giorgio.gambosi@uniroma2.it"  title="Mail">
-                                <font color="#ffc800">Mail</font></a>
-                            </li>
-                        
-                            
-                            <li >
-                                <a href="https://teams.microsoft.com/l/channel/19%3ac48d282177fc4648b727e285d0faefbe%40thread.tacv2/1%2520modulo?groupId=83c1dc93-2104-416d-b327-88ce039ef14c&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"  title="Teams">
-                                <font color="#ffc800">Teams</font></a>
-                            </li>
-                        
-                    </ul>
-                </div>
-             </div>
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">Contatti</h5>
+              
+            
+              
+            
+              
+            
+              
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <font color="yellow"></font>
+                  </li>
+              
+                
+                  <li >
+                    <font color="yellow">giorgio.gambosi@uniroma2.it</font>
+                  </li>
+              
+                
+                  <li >
+                    <font color="yellow">twitter.com/tvmlclass</font>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
 
 
           <div class="small-6 medium-3 large-3 columns">
+            
+              
                 <h5 class="shadow-black">Thanks to</h5>
               
-            <div id="thanks-to">
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            <!--ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href="/fo2021"  title=""></a>
+                </li>
+            
+              
+                <li class="services-newsletter" >
+                  <a href="https://pages.github.com/" target="_blank"  title="Github pages">Github pages</a>
+                </li>
+            
+              
+                <li class="services-newsletter" >
+                  <a href="https://jekyllrb.com/" target="_blank"  title="Jekyll">Jekyll</a>
+                </li>
+            
+              
+                <li class="services-newsletter" >
+                  <a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="http://entypo.com/" target="_blank"  title="Entypo icons">Entypo icons</a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="https://xkcd.com/" target="_blank"  title="Xkcd comics">Xkcd comics</a>
+                </li>
+            
+            </ul-->
             <div class="row shadow-black collapse">
             	<div class="small-5 columns">
             		<span  class="network-entypo">
@@ -472,13 +600,7 @@
             			</font>
             		</span>
             	</div>
-            	<div class="small-7 columns">
-            	        <span  class="network-entypo">
-            	        <font  size='2'><a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation
-            	                                </a>
-            	         </font>
-            	         </span>
-            	 </div>
+            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a></font></span></div>
             </div>
             <div class="row shadow-black collapse">
             	<div class="small-5 columns">
@@ -489,9 +611,9 @@
             			</font>
             		</span>
             	</div>
+            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="https://xkcd.com/" target="_blank"  title="Xkcd comics">Xkcd comics</a></font></span></div>
             </div>
           </div><!-- /.large-3.columns -->
-          </div>
           
         </div><!-- /.row -->
 

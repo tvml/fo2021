@@ -1,14 +1,14 @@
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
-#      _____ _ __          _____      __  __  _
+#      _____ _ __          _____      __  __  _                 
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
 #     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
-#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
-#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
-#                                                 /____/
+#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  ) 
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/  
+#                                                 /____/        
 #
 # Title of your website
-title: "Fondamenti di Informatica: modulo 1"
+title: "Machine learning"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -16,7 +16,7 @@ slogan: "Università di Roma Tor Vergata"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata."
+description: "Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata."
 
 # Main author of the website
 # See > authors.yml
@@ -25,11 +25,11 @@ author: Giorgio Gambosi
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 #url: 'https://tvml.github.io'
-baseurl: /fo2021
+baseurl: /ml1920
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/tvml/fo2021/edit/gh-pages
+improve_content: https://github.com/tvml/ml1920/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -37,7 +37,7 @@ improve_content: https://github.com/tvml/fo2021/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://tvml.github.io/fo2021/images/'
+urlimg: 'https://tvml.github.io/ml1920/images/'
 
 
 # Logo size is 600x80 pixels
@@ -195,7 +195,7 @@ msapplication_tilecolor:                "#fabb00"
 #
 # used in _includes/comments
 
-# disqus_shortname:
+# disqus_shortname: 
 
 
 #      _____
@@ -219,7 +219,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+# google_analytics_tracking_id: 
 
 
 
@@ -240,10 +240,7 @@ sass:
 
 
 
-aa: 2020-2021
+aa: 2019-2020
 
 
-side_image: "states.png"
-
-
-
+side_image: "apple-touch-icon-72x72.png"

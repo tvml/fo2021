@@ -11,6 +11,10 @@
 			</div><!-- /.small-12.columns -->
 		</div><!-- /.row -->
 	</div><!-- /#masthead -->
+	
+	{% if page.breadcrumb == true %}
+	{% include _breadcrumb.html %}
+	{% endif %}
 
 {% elsif page.header.title %}
 
@@ -21,6 +25,10 @@
 			</div><!-- /.small-12.columns -->
 		</div><!-- /.row -->
 	</div><!-- /#masthead -->
+	
+	{% if page.breadcrumb == true %}
+	{% include _breadcrumb.html %}
+	{% endif %}
 	
 	{% if page.header.caption_url && page.header.caption %}
 	<div class="masthead-caption">
@@ -44,6 +52,11 @@
 		</div><!-- /.row -->
 	</div><!-- /#masthead -->
 	
+	
+	{% if page.breadcrumb == true %}
+	{% include _breadcrumb.html %}
+	{% endif %}
+	
 	{% if page.header.caption_url && page.header.caption %}
 	<div class="masthead-caption">
 		<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
@@ -54,6 +67,10 @@
 	</div>
 	{% endif %}
 
+
+
+
+
 {% elsif page.header.pattern %}
 
 <div id="masthead-with-pattern" style="background: url('{{ site.urlimg }}/{{ page.header.pattern }}')">
@@ -63,6 +80,10 @@
 		</figure><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
@@ -79,42 +100,70 @@
 
 
 {% elsif page.header.background-color %}
-<!-- pagina iniziale  -->
-<div id="masthead-with-background-color" style="background: #7c7c7c;padding-left:0px;padding-top: 10px;padding-bottom: 10px;height: auto;">
+
+<div id="masthead-with-background-color" style="background: {{ page.header.background-color }};">
 	<div class="row">
 			<div class="small-12 columns">
 			<div class="masthead-title"  style="padding:0px"><font color="white" size="6">
-				Fondamenti di Informatica
+				Machine learning
 				</font>
 				</div>
-				<div id="cdl" class="masthead-title" style="padding:0px; font-size: large; color: #ffc800;">
-				<font color="#ffc800">
-				CdL in Informatica - Universita' di Roma Tor Vergata
+				<div class="masthead-title" style="padding:0px"><font color="yellow" size="4">
+				CdLM in Informatica - Universita' di Roma Tor Vergata
 				</font>
 				</div>
-				<div id="name" class="masthead-title" style="padding:0px
-    font-size: medium;"><font color="#81cac9">
+				<div class="masthead-title" style="padding:0px"><font color="orange" size="3">
 				Prof. Giorgio Gambosi - a.a. {{site.aa}}
 				</font>
 				</div>
-			          <p style="text-align:center;" style="margin-top:2cm;">
+			<p style="text-align:center;">
+				<!--a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}"-->
 					<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.header.image }}" alt="{{ site.title }} – {{ site.slogan }}">
-			          </p>
-			</div>
-	</div>
+				</p>
+				
+					
+				<!--/a-->
+			</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
+
+<!--
+{% if page.header.caption_url && page.header.caption %}
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
 </div>
+{% elsif page.header.caption %}
+<div class="masthead-caption">
+	{{ page.header.caption }}
+</div>
+{% endif %}
+-->
+
+
+
 
 {% elsif page.header == false %}
-<!-- sezioni -->
-<div id="masthead-with-background-color"  style="background: #7c7c7c;padding-left:0px;padding-top: 10px;padding-bottom: 10px;height: auto;">
+<div id="masthead-with-background-color" style="background: #014d4e; padding-left:0px;">
 	<div class="row">
-		<div id="page-title" class="small-11 columns" style="color: white;
-    font-size: 1cm;
-    height: auto;">
-		<img style="width:90px;height:90px;vertical-align:middle;border-radius: 10px; margin-right: 40px;" src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.side_image}}">
-			{{page.title}}
+		<div class="small-1 columns">
+			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.side_image}}" itemprop="image">
 		</div>
-	</div>
-</div>
+		<div class="small-11 columns">
+			<!--div class="masthead-title"  style="padding:0px"-->
+				<font color="white" size="6">
+					{{page.title}}
+				</font>
+			<!--/div-->
+		</div>
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
 
 {% endif %}
