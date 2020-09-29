@@ -18,7 +18,7 @@ Le lezioni avranno inizio lunedì 5-10-2020
 
 ### Organizzazione della didattica
 
-Il corso si svolge in modalità on-line, su piattaforma Teams a [questo indirizzo](https://teams.microsoft.com/l/channel/19%3ac48d282177fc4648b727e285d0faefbe%40thread.tacv2/1%2520modulo?groupId=83c1dc93-2104-416d-b327-88ce039ef14c&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e).
+Il corso si svolge in modalità on-line, su piattaforma Teams a [questo indirizzo](https://teams.microsoft.com/l/team/19%3a215551a18ec548c7a8b3898f641b7794%40thread.tacv2/conversations?groupId=5ca97f84-92c4-4db0-b211-17ab04c31741&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e).
 
 La didattica sarà tendenzialmente organizzata in modalità *flipped classroom*, per cui i contenuti saranno preventivamente proposti dal docente mediante video lezioni registrate sotto forma di *screencast* effettuati sulla base dei lucidi del corso. Gli screencast saranno messi a disposizione degli studenti, qualche giorno prima della lezione dedicata a tali contenuti, nella repository del canale Teams del corso stesso; i lucidi saranno disponibili nella medesima repository, oltre che su questo sito.
 
@@ -40,6 +40,8 @@ Il ricevimento studenti avviene secondo due modalità:
 
 * mediante appuntamento concordato su Teams, da richiedere eventualmente via mail o sulla chat Teams
 
+* si potranno organizzare, su richiesta di studenti interessati e per piccoli gruppi, incontri in presenza
+
 ### Esami
 
 #### Appelli di esame
@@ -51,7 +53,6 @@ L'iscrizione alla prova di esame del modulo 1 non richiede l'utilizzo della piat
 #### Modalità di esame
 
 Le modalità di esame saranno dipendenti dalla situazione pandemica e dalle indicazioni dell'Ateneo. 
-
 
 ### Materiale didattico
 
