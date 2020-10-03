@@ -59,7 +59,7 @@ Le modalità di esame saranno dipendenti dalla situazione pandemica e dalle indi
 Il testo di riferimento principale è il seguente:
 `G. Ausiello, F. D'Amore, G. Gambosi, L. Laura "Linguaggi, Modelli, Complessità", Franco Angeli 2014`{:.alert}
 
-Un ulteriore testo, che sarà utilizzato nella trattazione del parsing, è `A. Aho, M. Lam, R. Sethi, J.D. Ullman "Compilers. Principles, Techniques, and Tools", Pearson 2007`{:.alert}, tradotto in italiano come ` "Compilatori. Principi, tecniche e strumenti", Pearson 2019` 
+Un ulteriore testo, che sarà utilizzato nella trattazione del parsing, è `A. Aho, M. Lam, R. Sethi, J.D. Ullman "Compilers. Principles, Techniques, and Tools", Pearson 2007`{:.alert}, tradotto in italiano come "Compilatori. Principi, tecniche e strumenti", Pearson 2019 
 
 Sarà inoltre, ove necessario, suggerito materiale sull'argomento liberamente disponibile sul web.
 

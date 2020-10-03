@@ -1,4 +1,4 @@
-I"�<h3 id="dove-e-quando">Dove e quando</h3>
+I"<h3 id="dove-e-quando">Dove e quando</h3>
 
 <p>Le lezioni del corso si svolgono:</p>
 
@@ -37,6 +37,9 @@
   <li>
     <p>mediante appuntamento concordato su Teams, da richiedere eventualmente via mail o sulla chat Teams</p>
   </li>
+  <li>
+    <p>si potranno organizzare, su richiesta di studenti interessati e per piccoli gruppi, incontri in presenza</p>
+  </li>
 </ul>
 
 <h3 id="esami">Esami</h3>
@@ -56,7 +59,7 @@
 <p>Il testo di riferimento principale è il seguente:
 <code class="language-plaintext alert highlighter-rouge">G. Ausiello, F. D'Amore, G. Gambosi, L. Laura "Linguaggi, Modelli, Complessità", Franco Angeli 2014</code></p>
 
-<p>Un ulteriore testo, che sarà utilizzato nella trattazione del parsing, è <code class="language-plaintext alert highlighter-rouge">A. Aho, M. Lam, R. Sethi, J.D. Ullman "Compilers. Principles, Techniques, and Tools", Pearson 2007</code>, tradotto in italiano come ` “Compilatori. Principi, tecniche e strumenti”, Pearson 2019`</p>
+<p>Un ulteriore testo, che sarà utilizzato nella trattazione del parsing, è <code class="language-plaintext alert highlighter-rouge">A. Aho, M. Lam, R. Sethi, J.D. Ullman "Compilers. Principles, Techniques, and Tools", Pearson 2007</code>, tradotto in italiano come “Compilatori. Principi, tecniche e strumenti”, Pearson 2019</p>
 
 <p>Sarà inoltre, ove necessario, suggerito materiale sull’argomento liberamente disponibile sul web.</p>
 
