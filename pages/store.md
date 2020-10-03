@@ -9,4 +9,4 @@ header: no
 
 ## Quiz
 
-1. Quiz sui [`fondamenti matematici`{:.filelink}]({%link store/quiz_fondamenti.pdf %}) del corso.
+1. Quiz sui [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}{%link store/quiz_fondamenti.pdf %}) del corso
