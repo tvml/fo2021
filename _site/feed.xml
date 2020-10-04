@@ -9,6 +9,15 @@
 		<atom:link href="http://localhost:4000/fo2021/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Lezione 1</title>
+				<link>http://localhost:4000/fo2021/lezioni/lezione/</link>
+				<pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2021/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
 				<title>Ambiente di programmazione Python</title>
 				<link>http://localhost:4000/fo2021/comunicazioni/python/</link>
 				<pubDate>Sun, 27 Sep 2020 00:00:00 +0200</pubDate>
