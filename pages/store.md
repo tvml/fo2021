@@ -7,8 +7,6 @@ permalink: /store/
 header: no
 ---
 
-## Quiz
+1. Nota sugli [`ASF con epsilon transizioni`{:.filelink}]({{ site.baseurl }}/store/asfeps.pdf)  
 
-1. Quiz sui [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}{%link store/quiz_fondamenti.pdf %}) del corso
-
-1. Quiz sui [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}/store/quiz_fondamenti.pdf) del corso
+1. Esempi di applicazione del [`pumping lemma`{:.filelink}]({{ site.baseurl }}/store/esempi_pumpinglemma.pdf) nei linguaggi regolari 
