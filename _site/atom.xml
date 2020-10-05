@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/fo2021/</id>
 	<title>Fondamenti di Informatica: modulo 1</title>
-	<updated>2020-10-05T00:05:46+02:00</updated>
+	<updated>2020-10-05T14:42:54+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -26,9 +26,9 @@
 
 	
 		<entry>
-			<id>http://localhost:4000/fo2021/lezioni/lezione/</id>
-			<title>Lezione 1</title>
-			<link href="http://localhost:4000/fo2021/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 1" />
+			<id>http://localhost:4000/fo2021/comunicazioni/lezione-7-10/</id>
+			<title>Lezione 7-10</title>
+			<link href="http://localhost:4000/fo2021/comunicazioni/lezione-7-10/" rel="alternate" type="text/html" title="Lezione 7-10" />
 			<updated>2020-10-05T00:00:00+02:00</updated>
 
 			
@@ -44,11 +44,11 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/fo2021/lezioni/lezione/">
+			<content type="html" xml:base="http://localhost:4000/fo2021/comunicazioni/lezione-7-10/">&lt;p&gt;La lezione prevista per il giorno 7-10-2020 non avrà luogo ed è rimandata a data da definire&lt;/p&gt;
 </content>
 
 			
-				<category term="lezioni" />
+				<category term="comunicazioni" />
 			
 			
 
