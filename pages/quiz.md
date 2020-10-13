@@ -14,3 +14,7 @@ header: no
 ## Quiz
 
 1. Quiz sui [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}/quiz/quiz_fondamenti.pdf) del corso
+
+1. Slide quiz [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_fondamenti.pdf)
+
+1. Slide quiz [`espressioni regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_er.pdf)
