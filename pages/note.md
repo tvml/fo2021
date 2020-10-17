@@ -15,4 +15,6 @@ header: no
 
 1. [`Concetti`{:.filelink}]({{ site.baseurl }}/note/fondamenti-notes.pdf) fondamentali
 
+1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/linguaggi-notes.pdf) a linguaggi e grammatiche formali
+
 
