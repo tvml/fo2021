@@ -13,5 +13,7 @@ header: no
 
 1. [`Cheatsheet`{:.filelink}]({{ site.baseurl }}/store/python-regular-expressions-cheat-sheet.pdf) espressioni regolari in Python
 
+1. Esempio di [`dimostrazione`{:.filelink}]({{ site.baseurl }}/store/dimostrazione_grammatica.pdf) di linguaggio generato da grammatica
+
 
 
