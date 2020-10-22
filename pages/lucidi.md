@@ -16,3 +16,5 @@ header: no
 1. [`Concetti`{:.filelink}]({{ site.baseurl }}/lucidi/fondamenti-slides.pdf) fondamentali
 
 1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/linguaggi-slides.pdf) a linguaggi e grammatiche formali
+
+1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/automi-slides.pdf) a automi e computazioni

@@ -17,4 +17,6 @@ header: no
 
 1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/linguaggi-notes.pdf) a linguaggi e grammatiche formali
 
+1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/automi-notes.pdf) a automi e computazioni
+
 
