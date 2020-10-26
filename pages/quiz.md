@@ -18,3 +18,5 @@ header: no
 1. Slide quiz [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_fondamenti.pdf)
 
 1. Slide quiz [`espressioni regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_er.pdf)
+
+1. Slide quiz [`automi e TM`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_tm.pdf)
