@@ -20,3 +20,5 @@ header: no
 1. Slide quiz [`espressioni regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_er.pdf)
 
 1. Slide quiz [`automi e TM`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_tm.pdf)
+
+1. Slide quiz [`ASF`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_asf.pdf)
