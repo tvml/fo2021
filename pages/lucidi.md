@@ -18,3 +18,5 @@ header: no
 1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/linguaggi-slides.pdf) a linguaggi e grammatiche formali
 
 1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/automi-slides.pdf) a automi e computazioni
+
+1. [`Automi`{:.filelink}]({{ site.baseurl }}/lucidi/asf-slides.pdf) a stati finiti
