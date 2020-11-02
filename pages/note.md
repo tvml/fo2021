@@ -21,4 +21,4 @@ header: no
 
 1. [`Automi`{:.filelink}]({{ site.baseurl }}/note/asf-notes.pdf) a stati finiti
 
-
+1. [`Equivalenza`{:.filelink}]({{ site.baseurl }}/note/lingreg1-notes.pdf) ASF, GR, ER
