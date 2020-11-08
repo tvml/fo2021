@@ -22,3 +22,5 @@ header: no
 1. [`Automi`{:.filelink}]({{ site.baseurl }}/lucidi/asf-slides.pdf) a stati finiti
 
 1. [`Equivalenza`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg1-slides.pdf) ASF, GR, ER
+
+Alcune [`proprietà`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg2-slides.pdf) dei linguaggi regolari
