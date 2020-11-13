@@ -23,4 +23,4 @@ header: no
 
 1. Slide quiz [`ASF`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_asf.pdf)
 
-1. Slide quiz [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_lingreg.pdf)
+1. Slide quiz [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_ lingreg.pdf)
