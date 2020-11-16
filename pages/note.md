@@ -24,3 +24,5 @@ header: no
 1. [`Equivalenza`{:.filelink}]({{ site.baseurl }}/note/lingreg1-notes.pdf) ASF, GR, ER
 
 1. Alcune [`proprietà`{:.filelink}]({{ site.baseurl }}/note/lingreg2-notes.pdf) dei linguaggi regolari
+
+1.  [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/note/lingreg3-notes.pdf) e non regolarità

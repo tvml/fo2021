@@ -23,4 +23,6 @@ header: no
 
 1. [`Equivalenza`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg1-slides.pdf) ASF, GR, ER
 
-Alcune [`proprietà`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg2-slides.pdf) dei linguaggi regolari
+1. Alcune [`proprietà`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg2-slides.pdf) dei linguaggi regolari
+
+1.  [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg3-slides.pdf) e non regolarità
