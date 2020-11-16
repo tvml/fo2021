@@ -15,5 +15,7 @@ header: no
 
 1. Esempio di [`dimostrazione`{:.filelink}]({{ site.baseurl }}/store/dimostrazione_grammatica.pdf) di linguaggio generato da grammatica
 
+1. Dimostrazione del teorema di  [`Myhill-Nerode`{:.filelink}]({{ site.baseurl }}/store/myhill_nerode.pdf) 
+
 
 

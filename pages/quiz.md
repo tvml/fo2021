@@ -24,3 +24,9 @@ header: no
 1. Slide quiz [`ASF`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_asf.pdf)
 
 1. Slide quiz [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_ lingreg.pdf)
+
+1. Quiz sugli [`automi a stati finiti`{:.filelink}]({{ site.baseurl }}/quiz/quiz_asf.pdf) del corso
+
+1. Quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/quiz_regolari.pdf) del corso
+
+1. Slide quiz sul [`pumping lemma nei  linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_pumping_lemma_lr.pdf) del corso
