@@ -7,6 +7,6 @@ permalink: /codici/
 header: no
 ---
 
-* Una prima versione (largamente incompleta e da testare) del codice è accessibile dalla cartella Dropbox condivisa [qui](https://www.dropbox.com/sh/ee0a9ld7vhu6zpb/AACST37fCrQVlDBTEotUrSFPa?dl=0)
+* Una versione _in progress_ (largamente incompleta e da testare) del codice è accessibile su Github, [qui](https://github.com/tvml/fo2021)
 
 * Un testo introduttivo a Python, liberamente disponibile su web, è il [seguente](https://greenteapress.com/wp/think-python/)
