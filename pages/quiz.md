@@ -30,3 +30,5 @@ header: no
 1. Quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/quiz_regolari.pdf) del corso
 
 1. Slide quiz sul [`pumping lemma nei  linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_ pumping_lemma_lr.pdf) del corso
+
+1. Slide quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi-lr.pdf) del corso
