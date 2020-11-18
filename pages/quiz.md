@@ -13,7 +13,7 @@ header: no
 
 ## Quiz
 
-1. Quiz sui [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}/quiz/quiz_fondamenti.pdf) del corso
+1. Quiz sui [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}/quiz/quiz_fondamenti.pdf)
 
 1. Slide quiz [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_fondamenti.pdf)
 
@@ -25,10 +25,10 @@ header: no
 
 1. Slide quiz [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_ lingreg.pdf)
 
-1. Quiz sugli [`automi a stati finiti`{:.filelink}]({{ site.baseurl }}/quiz/quiz_asf.pdf) del corso
+1. Quiz sugli [`automi a stati finiti`{:.filelink}]({{ site.baseurl }}/quiz/quiz_asf.pdf)
 
-1. Quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/quiz_regolari.pdf) del corso
+1. Quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/quiz_regolari.pdf)
 
-1. Slide quiz sul [`pumping lemma nei  linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_ pumping_lemma_lr.pdf) del corso
+1. Slide quiz sul [`pumping lemma nei  linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_ pumping_lemma_lr.pdf)
 
-1. Slide quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi-lr.pdf) del corso
+1. Slide quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi-lr.pdf)
