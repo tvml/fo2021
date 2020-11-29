@@ -26,3 +26,11 @@ header: no
 1. Alcune [`proprietà`{:.filelink}]({{ site.baseurl }}/note/lingreg2-notes.pdf) dei linguaggi regolari
 
 1.  [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/note/lingreg3-notes.pdf) e non regolarità
+
+1. Grammatiche  [`context free`{:.filelink}]({{ site.baseurl }}/note/cf-notes.pdf), forme ridotte
+
+1. [`Forme normali`{:.filelink}]({{ site.baseurl }}/note/cfnf-notes.pdf) per grammatiche CF
+
+1. [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/note/noncf-notes.pdf) e non contestualità
+
+1. [`Automi a pila`{:.filelink}]({{ site.baseurl }}/note/pda-notes.pdf), relazioni con CFG

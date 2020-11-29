@@ -26,3 +26,11 @@ header: no
 1. Alcune [`proprietà`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg2-slides.pdf) dei linguaggi regolari
 
 1.  [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg3-slides.pdf) e non regolarità
+
+1. Grammatiche  [`context free`{:.filelink}]({{ site.baseurl }}/lucidi/cf-slides.pdf), forme ridotte
+
+1. [`Forme normali`{:.filelink}]({{ site.baseurl }}/lucidi/cfnf-slides.pdf) per grammatiche CF
+
+1. [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/lucidi/noncf-slides.pdf) e non contestualità
+
+1. [`Automi a pila`{:.filelink}]({{ site.baseurl }}/lucidi/pda-slides.pdf), relazioni con CFG
