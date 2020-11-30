@@ -34,3 +34,5 @@ header: no
 1. [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/lucidi/noncf-slides.pdf) e non contestualità
 
 1. [`Automi a pila`{:.filelink}]({{ site.baseurl }}/lucidi/pda-slides.pdf), relazioni con CFG
+
+1. Proprietà dei [`linguaggi CF`{:.filelink}]({{ site.baseurl }}/lucidi/lingcf-slides.pdf)
