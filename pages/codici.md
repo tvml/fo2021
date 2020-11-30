@@ -13,7 +13,7 @@ header: no
 
 **Temi proposti per sviluppo di algoritmi** (si fa riferimento al codice messo a disposizione)
 
-1. Classe RegEx: funzione nfa(), derivazione ASFND da espressione regolare, con relativa implementazione delle funzioni kleene(), concat() e unite in NFA (per 2 persone)
+1. ~~Classe RegEx: funzione nfa(), derivazione ASFND da espressione regolare, con relativa implementazione delle funzioni kleene(), concat() e unite in NFA (per 2 persone)~~
 2. Classe DFA: funzione regex(), derivazione espressione regolare da dfa,  mediante calcolo delle r_{ij}^k
 3. Classe DFA: funzione regex(), derivazione espressione regolare da dfa,  mediante eliminazione degli stati
 4. Classe DFA: funzione finite(), verifica che il linguaggio accettato è finito
