@@ -19,7 +19,7 @@ header: no
 4. Classe DFA: funzione finite(), verifica che il linguaggio accettato è finito
 5. Classe NPDA: funzioni empty_stack() e final_state(), derivazione NPDA equivalente che accetta per pila vuota
    e NPDA equivalente che accetta per stato finale
-6. Classe CFG: funzioni to_gnf() derivazione grammatica in Greibach Normal Form e npda(), derivazione npda equivalente (per 2 persone)
+6. ~~Classe CFG: funzioni to_gnf() derivazione grammatica in Greibach Normal Form e npda(), derivazione npda equivalente (per 2 persone)~~
 7. Classe NPDA: funzione cfg() derivazione cfg equivalente
 8. Classe RG: funzione lrg, derivazione grammatica regolare sinistra equivalente e 
    Classe LRG: funzione rg, derivazione grammatica regolare (destra) equivalente
