@@ -33,6 +33,8 @@ header: no
 
 1. [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/note/noncf-notes.pdf) e non contestualità
 
+1. Proprietà dei [`linguaggi CF`{:.filelink}]({{ site.baseurl }}/note/lingcf-notes.pdf)
+
 1. [`Automi a pila`{:.filelink}]({{ site.baseurl }}/note/pda-notes.pdf), relazioni con CFG
 
-1. Proprietà dei [`linguaggi CF`{:.filelink}]({{ site.baseurl }}/note/lingcf-notes.pdf)
+1. Introduzione alle [`macchine di Turing`{:.filelink}]({{ site.baseurl }}/note/tm-notes.pdf)
