@@ -38,3 +38,5 @@ header: no
 1. [`Automi a pila`{:.filelink}]({{ site.baseurl }}/note/pda-notes.pdf), relazioni con CFG
 
 1. Introduzione alle [`macchine di Turing`{:.filelink}]({{ site.baseurl }}/note/tm-notes.pdf)
+
+1. L'algoritmo di parsing [`Cocke-Younger-Kasami`{:.filelink}]({{ site.baseurl }}/note/cyk-notes.pdf)

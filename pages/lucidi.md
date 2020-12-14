@@ -38,3 +38,5 @@ header: no
 1. [`Automi a pila`{:.filelink}]({{ site.baseurl }}/lucidi/pda-slides.pdf), relazioni con CFG
 
 1. Introduzione alle [`macchine di Turing`{:.filelink}]({{ site.baseurl }}/lucidi/tm-slides.pdf)
+
+1. L'algoritmo di parsing [`Cocke-Younger-Kasami`{:.filelink}]({{ site.baseurl }}/lucidi/cyk-slides.pdf)
