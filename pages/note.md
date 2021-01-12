@@ -40,3 +40,7 @@ header: no
 1. Introduzione alle [`macchine di Turing`{:.filelink}]({{ site.baseurl }}/note/tm-notes.pdf)
 
 1. L'algoritmo di parsing [`Cocke-Younger-Kasami`{:.filelink}]({{ site.baseurl }}/note/cyk-notes.pdf)
+
+1. Introduzione ai  [`compilatori`{:.filelink}]({{ site.baseurl }}/note/parsing_intro-notes.pdf)
+
+1. Parsing [`top-down`{:.filelink}]({{ site.baseurl }}/note/parsing_topdown-notes.pdf)

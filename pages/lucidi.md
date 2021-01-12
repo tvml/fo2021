@@ -40,3 +40,7 @@ header: no
 1. Introduzione alle [`macchine di Turing`{:.filelink}]({{ site.baseurl }}/lucidi/tm-slides.pdf)
 
 1. L'algoritmo di parsing [`Cocke-Younger-Kasami`{:.filelink}]({{ site.baseurl }}/lucidi/cyk-slides.pdf)
+
+1. Introduzione ai  [`compilatori`{:.filelink}]({{ site.baseurl }}/lucidi/parsing_intro-slides.pdf)
+
+1. Parsing [`top-down`{:.filelink}]({{ site.baseurl }}/lucidi/parsing_topdown-slides.pdf)
