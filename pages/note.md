@@ -44,3 +44,5 @@ header: no
 1. Introduzione ai  [`compilatori`{:.filelink}]({{ site.baseurl }}/note/parsing_intro-notes.pdf)
 
 1. Parsing [`top-down`{:.filelink}]({{ site.baseurl }}/note/parsing_topdown-notes.pdf)
+
+1. Parsing [`bottom-up`{:.filelink}]({{ site.baseurl }}/note/parsing_bottomup-notes.pdf)

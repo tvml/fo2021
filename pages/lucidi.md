@@ -44,3 +44,5 @@ header: no
 1. Introduzione ai  [`compilatori`{:.filelink}]({{ site.baseurl }}/lucidi/parsing_intro-slides.pdf)
 
 1. Parsing [`top-down`{:.filelink}]({{ site.baseurl }}/lucidi/parsing_topdown-slides.pdf)
+
+1. Parsing [`bottom-up`{:.filelink}]({{ site.baseurl }}/lucidi/parsing_bottomup-slides.pdf)
