@@ -39,4 +39,3 @@ header: no
 * Parser a discesa ricorsiva
 * Parser top-down e linguaggi LL(k)
 * Parser bottom-up e linguaggi LR(k)
-* Precedenza di operatori
