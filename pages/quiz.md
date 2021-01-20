@@ -33,3 +33,8 @@ header: no
 
 1. Slide quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi-lr.pdf)
 
+1. Slide quiz sulle [`grammatiche context free`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_cfg.pdf)
+
+1. Slide quiz sugli [`automi a pila`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_pda.pdf)
+
+1. Slide quiz sulle [`macchine di Turing`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_tm.pdf)
